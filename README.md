@@ -15,7 +15,6 @@ Customer churn is a major challenge for subscription businesses because losing c
 * **Python:** Used to clean empty rows, fix format errors, and handle missing numbers.
 * **Microsoft Excel:** Used to group data, make summary tables, and build the final visual charts.
 
----
 
 ##  Key Insights 
 * **Technical Support Impact:** Customers with **"No TechSupport"** show a high **42% churn rate**, while customers with active tech assistance drop down heavily to just 15%.
@@ -23,7 +22,6 @@ Customer churn is a major challenge for subscription businesses because losing c
 * **Critical Onboarding Timeline:** The **0-6 Months (New Users)** initial lifecycle stage holds the highest risk gravity with a steep **53% platform drop-off density**. 
 * **Tenure Stabilization Boundary:** If a customer stays active past 12 months, they become highly loyal and stay using the service for a long time.
 
----
 
 ##  Recommendations
 
@@ -33,7 +31,6 @@ Offer a 15% discount to Month-to-Month contract users. This special offer will m
 ### 2. Easy Help for New Users
 Create simple video tutorials and quick chat setup tools for all new customers. Focus heavily on users inside their first 0-6 Months window to stop early platform drop-offs completely.
 
----
 
 ##  Conclusion
 To reduce customer loss and increase revenue, the business must fix short-term plan problems and give easy technical help to new users within their first 6 months. This simple approach is the best way to keep customers active longer and make the business grow safely.
@@ -43,5 +40,4 @@ https://www.linkedin.com/in/harini-n-683418378
 
 
 
-## 🌐 Connect with me
-👉 [My LinkedIn Profile](https://www.linkedin.com/in/harini-n-683418378)
+
