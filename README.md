@@ -1,4 +1,5 @@
-Customer Retention &amp; Churn Analysis dashboard (FUTURE_DS_01) 
+**Customer Retention & Churn Analysis dashboard (FUTURE_DS_01)**
+
 
 ##  Project Overview
 Customer churn is a major challenge for subscription businesses because losing customers directly reduces monthly recurring revenue. This analytics project studies telecom subscriber profiles to understand user behaviors and uncover why customers cancel their services. The backend workflow uses a Python script  to clean raw data and fix formatting text errors in billing columns. The frontend workflow uses Microsoft Excel to aggregate the clean data into tables and build interactive business charts. The final outcome is an executive dashboard that tracks customer active timelines, highlights high-risk segments, and provides clear action plans for business stakeholders.
