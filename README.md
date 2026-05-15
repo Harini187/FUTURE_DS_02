@@ -1,24 +1,23 @@
 Customer Retention &amp; Churn Analysis dashboard (FUTURE_DS_01) 
 
-
-# Project Overview
-## 🔍 Project Overview
-Customer churn is one of the biggest challenges for subscription businesses because losing customers directly reduces monthly revenue. This project analyzes telecom subscriber profiles to understand customer behavior and find the exact reasons why users stop using the service.
+##  Project Overview
+Customer churn is a major challenge for subscription businesses because losing customers directly reduces monthly recurring revenue. This analytics project studies telecom subscriber profiles to understand user behaviors and uncover why customers cancel their services. The backend workflow uses a Python script  to clean raw data and fix formatting text errors in billing columns. The frontend workflow uses Microsoft Excel to aggregate the clean data into tables and build interactive business charts. The final outcome is an executive dashboard that tracks customer active timelines, highlights high-risk segments, and provides clear action plans for business stakeholders.
 
 
-## Project Objectives
-* **Identify Churn Drivers:** Uncover the primary reasons why customers stop using the platform.
-* **Segment Customer Risk:** Pinpoint specific high-risk subscriber segments prone to cancellation.
-* **Analyze Customer Lifespan:** Track active subscription timelines and critical drop-off periods.
-* **Formulate Retention Actions:** Design data-backed strategies to improve overall customer retention.
+##  Project Objectives
+* Find the main reasons why customers stop using the service.
+* Pinpoint which types of customer plans are most likely to leave.
+* Track how many months customers stay active before dropping off.
+* Design simple business strategies to help improve overall retention.
 
-## 🛠️Tools Used
+
+## Tools Used
 * **Python:** Used to clean empty rows, fix format errors, and handle missing numbers.
 * **Microsoft Excel:** Used to group data, make summary tables, and build the final visual charts.
 
 ---
 
-## 📈 Key Insights 
+##  Key Insights 
 * **Technical Support Impact:** Customers with **"No TechSupport"** show a high **42% churn rate**, while customers with active tech assistance drop down heavily to just 15%.
 * **High-Risk Contract Tiers:** Subscribers on a short-term **Month-to-month contract** experience a massive **42% churn pattern**, whereas long-term 1-Year and 2-Year contracts stay safely protected under 11%.
 * **Critical Onboarding Timeline:** The **0-6 Months (New Users)** initial lifecycle stage holds the highest risk gravity with a steep **53% platform drop-off density**. 
