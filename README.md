@@ -1,10 +1,10 @@
-# FUTURE_DS_02
- Customer Retention &amp; Churn Analysis dashboard built using Python (Pandas/NumPy) for data cleaning and MS Excel for executive business reporting.
-Customer Retention & Churn Analysis 
+Customer Retention &amp; Churn Analysis dashboard (FUTURE_DS_01) 
 
 
 # Project Overview
-This project analyzes customer dataset for a subscription business. The main goal is to clean the raw data using **Python** and build a visual reporting dashboard in **Microsoft Excel** to identify why customers leave and how to improve business retention.
+## 🔍 Project Overview
+Customer churn is one of the biggest challenges for subscription businesses because losing customers directly reduces monthly revenue. This project analyzes telecom subscriber profiles to understand customer behavior and find the exact reasons why users stop using the service.
+
 
 ## Project Objectives
 * **Identify Churn Drivers:** Uncover the primary reasons why customers stop using the platform.
